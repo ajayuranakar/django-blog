@@ -1,0 +1,400 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Post",
+				"PostAdmin"
+			],
+			[
+				"display",
+				"displayName"
+			],
+			[
+				"disp",
+				"displayCount"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"e",
+				"empCount"
+			],
+			[
+				"se",
+				"setData"
+			],
+			[
+				"sniff",
+				"snifferLog"
+			],
+			[
+				"time",
+				"timeToSniff"
+			],
+			[
+				"pa",
+				"packetLog"
+			],
+			[
+				"pkt",
+				"pktToSniff"
+			],
+			[
+				"packet",
+				"packetNo"
+			],
+			[
+				"sni",
+				"snifferLog"
+			],
+			[
+				"packe",
+				"packetNo"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"proto",
+				"protoSniff"
+			],
+			[
+				"tim",
+				"timeToSniff"
+			],
+			[
+				"IP",
+				"IPAddr"
+			],
+			[
+				"oct",
+				"oct_brd"
+			],
+			[
+				"oct_",
+				"oct_IP"
+			],
+			[
+				"split",
+				"split_fun"
+			],
+			[
+				"sub",
+				"subnet_mask"
+			],
+			[
+				"random",
+				"random_gen_fun"
+			],
+			[
+				"fina",
+				"final_net_id"
+			],
+			[
+				"final",
+				"final_net_ids"
+			],
+			[
+				"net_",
+				"net_ip_addr_octs"
+			],
+			[
+				"netw",
+				"network_address"
+			],
+			[
+				"net",
+				"net_ip_addr_octs"
+			],
+			[
+				"net_ip_",
+				"net_ip_addr_octs"
+			],
+			[
+				"number",
+				"number_of_ones"
+			],
+			[
+				"binary",
+				"binary_ip"
+			],
+			[
+				"bina",
+				"binary_ip"
+			],
+			[
+				"deci",
+				"decimalIP"
+			],
+			[
+				"no_",
+				"no_of_zeros"
+			],
+			[
+				"subnet",
+				"subnet_binary"
+			],
+			[
+				"bin",
+				"bin_oct"
+			],
+			[
+				"subn",
+				"subnet_binary"
+			],
+			[
+				"arg",
+				"args"
+			],
+			[
+				"en",
+				"enque"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"inc",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ghost/Desktop/django/proj1/proj1_django/src/tydjango19/urls.py",
+		"/home/ghost/Desktop/django/proj1/proj1_django/src/posts/migrations/0001_initial.py",
+		"/home/ghost/Desktop/django/proj1/proj1_django/src/posts/forms.py",
+		"/home/ghost/Desktop/django/proj1/proj1_django/src/posts/migrations/__init__.py",
+		"/home/ghost/Desktop/django/proj1/proj1_django/src/posts/__init__.py",
+		"/home/ghost/Desktop/django/proj1/proj1/src/crud.md",
+		"/home/ghost/Desktop/django/proj1/proj1/src/templates/index.html",
+		"/home/ghost/Desktop/django/proj1/proj1/src/posts/models.py",
+		"/home/ghost/Desktop/django/proj1/proj1/src/templates/post_detail.html",
+		"/home/ghost/Desktop/django/proj1/proj1/src/posts/forms.py",
+		"/home/ghost/Desktop/django/proj1/proj1/src/posts/urls.py",
+		"/home/ghost/Desktop/django/proj1/proj1/src/tydjango19/urls.py",
+		"/home/ghost/Desktop/django/proj1/proj1/src/tydjango19/settings.py",
+		"/home/ghost/Desktop/django/proj1/proj1/src/templates/indexx.html",
+		"/home/ghost/Desktop/django/proj1/proj1/src/posts/views.py",
+		"/home/ghost/Desktop/django/proj1/proj1/src/posts/admin.py",
+		"/home/ghost/Downloads/scapy-2.3.1/doc/scapy/usage.rst",
+		"/home/ghost/Downloads/scapy-2.3.1/doc/scapy/introduction.rst",
+		"/home/ghost/python/emp.py",
+		"/home/ghost/python/class.py",
+		"/home/ghost/index.html.1",
+		"/home/ghost/python/ajsniffNew.py",
+		"/home/ghost/python/network_subnetting_full.py",
+		"/home/ghost/python/ssh_v2.py",
+		"/home/ghost/python/sniff.py",
+		"/home/ghost/python/sniffNew.py",
+		"/home/ghost/python/subnet.py",
+		"/home/ghost/wifiphisher-master/phishing-scenarios/connection_reset/chrome.css",
+		"/home/ghost/c/tree_8.cc",
+		"/home/ghost/python/hell1.py",
+		"/home/ghost/python/pyth2.py",
+		"/home/ghost/python/word_count.py",
+		"/home/ghost/python/os_mod.py",
+		"/home/ghost/python/python_app.py",
+		"/home/ghost/python/my_mod.py",
+		"/home/ghost/c/test1.c",
+		"/home/ghost/python/wifi_scapy.py",
+		"/home/ghost/python/scapy2.py",
+		"/home/ghost/python/Icmp_test.py",
+		"/home/ghost/python/file1.py",
+		"/home/ghost/python/thr.py",
+		"/home/ghost/python/threading1.py",
+		"/home/ghost/c/rev.cc",
+		"/home/ghost/c/lcm_hcf.cc",
+		"/home/ghost/c/check_ovel.cc",
+		"/home/ghost/c/gross_sal.cc",
+		"/home/ghost/c/swaap_no_temp.cc",
+		"/home/ghost/c/add_dig.cc",
+		"/home/ghost/c/stack_ll.cc",
+		"/home/ghost/c/check_para.cc",
+		"/home/ghost/c/union.cc",
+		"/home/ghost/c/tree_7.cc",
+		"/home/ghost/c/enum.cc",
+		"/home/ghost/c/bf.cc",
+		"/home/ghost/c/tree_6.cc",
+		"/home/ghost/c/q.cc",
+		"/home/ghost/c/stack_1.cc",
+		"/home/ghost/c/udp_server.py",
+		"/home/ghost/c/my_dos.py",
+		"/home/ghost/c/server_pu.py",
+		"/home/ghost/cat.py",
+		"/home/ghost/c/q_2.cc",
+		"/home/ghost/c/clint.py",
+		"/home/ghost/c/ddos.py",
+		"/home/ghost/c/revStr_4.cc",
+		"/home/ghost/c/a.out",
+		"/usr/bin/python2.7",
+		"/home/ghost/c/tree_2.cc",
+		"/home/ghost/c/ll_2.cc",
+		"/home/ghost/c/stack.cc",
+		"/home/ghost/c/ll.cc",
+		"/home/ghost/c/llrec.cc",
+		"/home/ghost/c/ex.py",
+		"/home/ghost/c/str_rev3.cc",
+		"/home/ghost/c/2.py",
+		"/home/ghost/wp_login_admin.php",
+		"/media/01CF15FD8442E740/contacts.vcf",
+		"/home/ghost/c/new.cc",
+		"/home/ghost/c/rev_str.cc",
+		"/home/ghost/c/str_rev_2.cc",
+		"/home/ghost/c/str_rev_3.cc",
+		"/home/ghost/c/1.py",
+		"/home/ghost/c/pattern.cc",
+		"/home/ghost/c/get.cc",
+		"/home/ghost/c/si.c",
+		"/home/ghost/c/env_exploit.c",
+		"/home/ghost/c/getline.cc",
+		"/home/ghost/c/pointer2.cc",
+		"/home/ghost/c/exploit.c",
+		"/home/ghost/c/tree.cc",
+		"/home/ghost/c/valn.c",
+		"/home/ghost/c/pointer3.cc",
+		"/home/ghost/c/selection_s.cc",
+		"/home/ghost/c/bubbl_sote.cc",
+		"/home/ghost/c/rev_ll_iterative.cc",
+		"/home/ghost/c/pointer.cc",
+		"/home/ghost/c/count.c",
+		"/home/ghost/c/pointer1.cc",
+		"/home/ghost/c/123.cc",
+		"/home/ghost/c/11.html",
+		"/home/ghost/c/size.cc",
+		"/home/ghost/c/bit_count.c",
+		"/home/ghost/c/pattern.c",
+		"/home/ghost/c/word_count.c",
+		"/home/ghost/c/2.cc",
+		"/home/ghost/c/ajay.cc",
+		"/home/ghost/Desktop/1.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
